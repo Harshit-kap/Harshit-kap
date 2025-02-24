@@ -14,7 +14,7 @@
 - **Tools & Platforms:** Git, GitHub, VS Code
 
 ### 📈 GitHub Stats:
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshit-kap&show_icons=true&theme=tokyonight)
+![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshit-kap&show_icons=true&theme=tokyonight&cache_seconds=86400))
 
 ### 📫 Connect with Me:
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Harshit-kap)
